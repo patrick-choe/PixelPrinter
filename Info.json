@@ -1,0 +1,8 @@
+﻿{
+  "Id": "PixelPrinter",
+  "DisplayName": "ADOFAI Pixel Printer",
+  "Author": "PatrickKR",
+  "Version": "1.0.0",
+  "AssemblyName": "PixelPrinter.dll",
+  "EntryMethod": "PixelPrinter.Main.Load"
+}
