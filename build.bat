@@ -18,6 +18,6 @@ dotnet "C:\Program Files\dotnet\sdk\5.0.201\MSBuild.dll" /p:Configuration=Releas
 mkdir Release
 cp ./PixelPrinter/bin/Release/PixelPrinter.dll ./Release/PixelPrinter.dll
 cp ./Info.json ./Release/Info.json
-tar -acf PixelPrinter-Release.zip Release
+tar -acf PixelPrinter-1.0.zip Release
 rm -rf Release
 pause

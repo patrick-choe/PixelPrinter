@@ -4,5 +4,7 @@
   "Author": "PatrickKR",
   "Version": "1.0.0",
   "AssemblyName": "PixelPrinter.dll",
-  "EntryMethod": "PixelPrinter.Main.Load"
+  "EntryMethod": "PixelPrinter.Main.Load",
+  "HomePage": "https://github.com/patrick-mc/PixelPrinter",
+  "Repository": "https://raw.githubusercontent.com/patrick-mc/PixelPrinter/main/Repository.json"
 }
